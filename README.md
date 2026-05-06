@@ -4,7 +4,7 @@ A final project to demonstrate a synthesis of materials explored in the course.
 ## Approaching the Hall of the Mountain King
 ### link to work
 
-(https://editor.p5js.org/hinaccurate/full/tL1dzzvhu)[https://editor.p5js.org/hinaccurate/full/tL1dzzvhu]
+https://editor.p5js.org/hinaccurate/full/tL1dzzvhu
 
 ### what I tried to create 
 
